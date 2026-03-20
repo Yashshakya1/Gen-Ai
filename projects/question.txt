@@ -1,0 +1,38 @@
+Order & Delivery :-
+
+my order has not arrived
+how do I track my order
+where is my package
+delivery is late
+
+Refunds & Returns :-
+
+how do I request a refund
+I want to return a damaged product
+how long does refund take
+can I get my money back
+
+Account & Login :-
+
+I forgot my password
+my account is locked
+I am not receiving OTP
+how do I reset my password
+Payment & Billing :-
+
+my payment failed but money was deducted
+how do I update my payment method
+which payment methods are accepted
+I was charged twice
+Subscription & Plans :-
+
+how do I cancel my subscription
+can I upgrade my plan
+can I downgrade my plan
+when does cancellation take effect
+
+Out of scope — yeh bot nahi jaanta :-
+
+what is the weather        → fallback reply aayega
+tell me a joke             → fallback reply aayega
+what is AI                 → fallback reply aayega
